@@ -6,4 +6,4 @@ Git has a mutable index called stage.
 change01
 
 this add in a new branch dev
-add this line in master branch
+merge two file in master to solve conflict.
